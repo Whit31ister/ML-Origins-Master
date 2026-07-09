@@ -73,6 +73,12 @@ jupyter notebook
 - Models, checkpoints, and generated reports should not be committed unless required.
 - Development is performed in notebooks. Reusable code is moved into `src/`.
 
+## Branch
+![img.png](img.png)
+
+## Commit
+![img_1.png](img_1.png)
+
 ## License
 
 MIT

@@ -1,0 +1,12 @@
+[project]
+name = "ml-visual-thing"
+version = "0.1.0"
+description = "Machine Learning models, experiments, and applications."
+readme = "README.md"
+requires-python = ">=3.12"
+
+[tool.black]
+line-length = 100
+
+[tool.isort]
+profile = "black"

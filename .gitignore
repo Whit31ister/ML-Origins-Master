@@ -1,0 +1,10 @@
+/data/
+
+checkpoints/
+models/saved/
+reports/
+logs/
+__pycache__/
+.ipynb_checkpoints/
+
+JupyterProject
